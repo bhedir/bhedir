@@ -1,16 +1,64 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=Hacking%20The%20Planet%20🐱&fontSize=70&animation=fadeIn" />
+</p>
 
-<!--
-**bhedir/bhedir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <p align="center">🐱 B.HEDIR: AKA 9astoula</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer+Student;Securinets+HR+Manager;Professional+Coffee+to+Code+Converter;I+hack+for+food+(and+cats)" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamN4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/unQ3IJU2RG7PEPN9qh/giphy.gif" width="250">
+</p>
+
+---
+
+### 🎮 Player Stats (Level 21 Hacker)
+
+
+
+- **Main Quest:** Becoming a Cybersecurity God so I can find who stole my cat's treats.
+- **HR Duty:** Managing humans at **Securinets** (harder than patching zero-days, honestly).
+- **Side Quest:** Pretending I'm in *Mr. Robot* while actually just googling why my if statement is broken.
+- **Ultimate Skill:** sudo rm -rf / (Don't ask me to help with your laptop).
+
+---
+
+### 🛠️ The "I can break your WiFi" Starter Pack
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,bash,linux,docker,c,cpp,git,mysql,html,css,js,kali,ubuntu,debian,vscode,github,discord&theme=dark&perline=8" /> </p>
+
+---
+
+### 🐱 My GitHub Activity (Basically me chasing lasers)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+> **Note:** The green squares above are not code. They are actually the number of times I've cried over a segmentation fault.
+
+---
+
+
+
+🕹️ Pacman Level: Expert
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhedir&theme=tokyonight" width="100%" /> </p>
+
+---
+
+
+### 📞 Hack Me (If You Can)
+
+<p align="center">
+<a href="https://www.linkedin.com/in/hadir-ben-arbia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+  <i>"I don't need a password. I just need your cat's name and the year you were born."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
